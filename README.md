@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-  <h1>Hello World!</h1>
+  <h1 style="color: green"; align-items: center;>Hello World!</h1>
   </body>
   </head>
