@@ -8,3 +8,6 @@ a = np.array(vac_nums)
 mean = np.sum(a)/a.size
 v =np.sum((a-mean)**2)/a.size
 print(v)
+
+
+
